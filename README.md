@@ -5,4 +5,4 @@
 
 ## "Training"
         Training is the giving of information and knowledge, through speech, the written word or other methods of demonstration in a manner that instructs the trainee.   
-For more information please [click] (www.talentlms.com/elearning/learning-vs-training) 
+For more information please ([click])((www.talentlms.com/elearning/learning-vs-training)) 
